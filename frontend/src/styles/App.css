@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  background: #f8f9fa;
+  color: #333;
+  text-align: center;
+}
+.header {
+  background: #ff9933;
+  padding: 1rem;
+  color: white;
+  font-size: 2rem;
+}
+.hero {
+  padding: 2rem;
+}
+.hero img {
+  max-width: 100%;
+  border-radius: 1rem;
+}
+.culture {
+  background: #138808;
+  color: white;
+  padding: 2rem;
+}
+.footer {
+  background: #000080;
+  color: white;
+  padding: 1rem;
+}
